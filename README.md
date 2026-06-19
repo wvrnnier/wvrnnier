@@ -25,7 +25,6 @@ ________________________________________________________________________________
 **Backend**
 
 ![Bun](https://img.shields.io/badge/Bun-14151a?style=flat-square&logo=bun&logoColor=white)
-![ElysiaJS](https://img.shields.io/badge/ElysiaJS-111827?style=flat-square&logo=elysia&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 **Databases**
