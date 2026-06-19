@@ -1,4 +1,4 @@
-My name is Néstor, I like to consider myself a software developer with a strong foundation in web. I enjoy working across the stack, from designing schemas to crafting back or frontends. I've currently completed my degree alongside an internship at Accenture in Madrid.
+My name is Néstor, I like to consider myself a software developer with a strong foundation in web. I enjoy working across the stack, from designing schemas to crafting back or frontends. I've currently completed my degree alongside an internship.
 
 I'm particularly drawn to algorithmic design and software arquitecture patterns.
 
